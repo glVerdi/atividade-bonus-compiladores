@@ -47,4 +47,3 @@ WHERE          { return AsdrSample.WHERE; }
 
 . { System.out.println("Erro lexico: caracter invalido: <" + yytext() + ">"); }
 
-%%
