@@ -1,0 +1,2 @@
+$TRACE_ON
+SELECT produto FROM estoque;

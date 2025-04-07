@@ -1,0 +1,2 @@
+$TRACE_ON
+SELECT nome, salario, cargo FROM empregados WHERE setor = "RH" AND cidade = "Porto Alegre";
